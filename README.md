@@ -89,22 +89,6 @@ I'm a **Senior Full-Stack PHP Developer & Technical Consultant** with over **15 
 ![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Crypto](https://img.shields.io/badge/Crypto_Payments-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshupatel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupatel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshupatel&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -143,8 +127,8 @@ I'd love to hear about it and help bring it to life.
 
 **📬 Reach out — let's build something great together!**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshu@example.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshulb)
+[![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshucser@gmail.com)
 
 </div>
 
@@ -154,6 +138,6 @@ I'd love to hear about it and help bring it to life.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
-*⭐ From [Himanshu Patel](https://github.com/himanshupatel) — Building the web, one commit at a time.*
+*⭐ From [Himanshu Patel](https://github.com/softono) — Building the web, one commit at a time.*
 
 </div>
